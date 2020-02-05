@@ -18,7 +18,7 @@
 | 1x07 | Eye of the Needle      | `*`
 | 1x10 | Prime Factors          | `*`
 | 1x11 | State of Flux          | `!!`
-| 1x14 | Face                   | `!!`
+| 1x14 | Faces                  | `!!`
 | 1x16 | Learning Curve         | `*`
 | 2x01 | The 37's               | `*`
 | 2x04 | Elogium
